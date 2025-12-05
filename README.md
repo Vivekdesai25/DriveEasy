@@ -1,4 +1,4 @@
-<h1 align="center"> AutoRent – MERN Car Rental System</h1>
+<h1 align="center"> DriveEasy – MERN Car Rental System</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-FullStack-green?style=for-the-badge">
