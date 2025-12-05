@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DriveEasy Rental",
+  "description": "A fully functional car rental platform featuring user authentication, car browsing with filters, booking management, and a comprehensive admin dashboard. Includes a simulated backend for immediate preview and full source code for a real Node/Express backend.",
+  "requestFramePermissions": []
+}
