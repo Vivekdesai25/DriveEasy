@@ -13,7 +13,7 @@
 
 ## 📌 Overview
 
-AutoRent is a **full-stack MERN-based Online Car Rental Application** that enables users to browse cars, filter options, book rentals, cancel bookings, and track their history.  
+DriveEasy is a **full-stack MERN-based Online Car Rental Application** that enables users to browse cars, filter options, book rentals, cancel bookings, and track their history.  
 Admins can manage vehicles, user accounts, and booking statuses — making it powerful and production-ready.
 
 This project demonstrates real-world features like authentication, protected routes, data validation, admin control, and full booking workflow.
