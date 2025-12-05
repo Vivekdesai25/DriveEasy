@@ -1,4 +1,4 @@
-<h1 align="center">🚗 AutoRent – MERN Car Rental System</h1>
+<h1 align="center"> AutoRent – MERN Car Rental System</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-FullStack-green?style=for-the-badge">
@@ -20,7 +20,7 @@ This project demonstrates real-world features like authentication, protected rou
 
 ---
 
-## ✨ Features
+## Features
 
 ### 👤 User Module
 - Register & Login (JWT)
@@ -41,7 +41,7 @@ This project demonstrates real-world features like authentication, protected rou
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |----------|------------|
