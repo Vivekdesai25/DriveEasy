@@ -18,7 +18,7 @@ Admins can manage vehicles, user accounts, and booking statuses — making it po
 
 This project demonstrates real-world features like authentication, protected routes, data validation, admin control, and full booking workflow.
 
----
+
 
 ## Features
 
