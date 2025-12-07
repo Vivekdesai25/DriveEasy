@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Authentication-JWT-orange?style=flat-square">
 </p>
 
----
 
 ## 📌 Overview
 
